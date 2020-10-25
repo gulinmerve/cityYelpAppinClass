@@ -5,12 +5,10 @@ const RestaurantDetail = (props) => {
     return (
         <SafeAreaView>
             <View>
-                <Text>
-                    RestauranL Detail
-                </Text>
+                <Text>Restaurant Detail</Text>
             </View>
         </SafeAreaView>
     )
 }
 
-export { RestaurantDetail };
+export { RestaurantDetail }
